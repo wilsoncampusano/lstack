@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lstack", "Lstack\Lstack.csproj", "{F5387D9C-7520-4236-9ED2-F5E273FC23B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackTest", "StackTest\StackTest.csproj", "{D9A21FD3-24B8-4055-A3CD-91EC604EB7F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5387D9C-7520-4236-9ED2-F5E273FC23B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5387D9C-7520-4236-9ED2-F5E273FC23B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5387D9C-7520-4236-9ED2-F5E273FC23B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5387D9C-7520-4236-9ED2-F5E273FC23B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9A21FD3-24B8-4055-A3CD-91EC604EB7F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9A21FD3-24B8-4055-A3CD-91EC604EB7F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9A21FD3-24B8-4055-A3CD-91EC604EB7F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9A21FD3-24B8-4055-A3CD-91EC604EB7F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
